@@ -102,7 +102,7 @@ Docs & Markup
 -->
 
 
-### ✍️ Random Dev Quote
+### ✍️ Daily Quotes for Developers
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
