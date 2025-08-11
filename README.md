@@ -1,7 +1,10 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=31B4F7&width=435&lines=Welcome+to+My+Github)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=4999&color=42BFFF&width=435&lines=Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
 
 # Reza Hedayati 
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reza-hedayati-majdabadi/)
+[![Email Me](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Website](https://img.shields.io/badge/Visit%20My%20Website-rhedayati.me-2E8B57?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rhedayati.me)
 
 
 <!--![](https://komarev.com/ghpvc/?username=r-hedayati&stule=plastic)
@@ -22,10 +25,10 @@
 
 ## 🖥 Skills
 
+- Video Streaming
+- Optimization
 - Machine Learning
 - Deep Learning
-- Natural Language Processing
-- Computer Vision
 
 ## ⚙️ Tech Stack:
 
@@ -66,13 +69,15 @@ Docs & Markup
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 
-  
+<!--  
 ## ⚙️ Tech Stack
 
 ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=Docker&color=353535) ![Bootstrap](https://img.shields.io/badge/-Kubernetes-05122A?style=flat-square&logo=Kubernetes&color=353535) ![Bootstrap](https://img.shields.io/badge/-TensorFlow-05122A?style=flat-square&logo=TensorFlow&color=353535) ![Bootstrap](https://img.shields.io/badge/-PyTorch-05122A?style=flat-square&logo=PyTorch&color=353535) ![Bootstrap](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat-square&logo=Scikit-Learn&color=353535) ![Bootstrap](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=MongoDB&color=353535) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=PostgreSQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=353535) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=Numpy&color=353535) ![Bootstrap](https://img.shields.io/badge/-Matplotlib-05122A?style=flat-square&logo=Matplotlib&color=353535) ![Bootstrap](https://img.shields.io/badge/-Flask-05122A?style=flat-square&logo=Flask&color=353535) ![Bootstrap](https://img.shields.io/badge/-Django-05122A?style=flat-square&logo=Django&color=353535) ![Bootstrap](https://img.shields.io/badge/-FastAPI-05122A?style=flat-square&logo=FastAPI&color=353535) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535)
-
+-->
 
 ## 📊 GitHub Stats:
+
+[![Profile Views](https://komarev.com/ghpvc/?username=r-hedayati&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/r-hedayati)
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-hedayati&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact" width="38%" />
@@ -88,15 +93,13 @@ Docs & Markup
 ![](https://nirzak-streak-stats.vercel.app/?user=r-hedayati&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=r-hedayati&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 -->
-
+<!--
 ## 📫 How to reach me
-
-[![Profile Views](https://komarev.com/ghpvc/?username=r-hedayati&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/r-hedayati)
 
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reza-hedayati-majdabadi/)
 [![Email Me](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 [![Website](https://img.shields.io/badge/Visit%20Website-rhedayati.me-2E8B57?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rhedayati.me)
-
+-->
 
 
 ### ✍️ Random Dev Quote
